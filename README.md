@@ -1,5 +1,7 @@
 # Safari Web Inspector
 
+Using Safari Web Inspector to debug HTML, Javascript and CSS in a [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview).
+
 ## 1. Enable Develop in Safari Menu
 
 ![enable-develop-menu](https://user-images.githubusercontent.com/1819208/200086796-365912df-8062-4444-84d9-2f2e6feda71f.png)
