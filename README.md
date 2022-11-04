@@ -1,2 +1,15 @@
-# Safari-Web-Inspector
-Using Safari Web Inspector
+# Safari Web Inspector
+
+## 1. Enable Develop in Safari Menu
+
+![enable-develop-menu](https://user-images.githubusercontent.com/1819208/200086796-365912df-8062-4444-84d9-2f2e6feda71f.png)
+
+## 2. Using Web Inspector to Inspect Web elements in the iOS Simulator 
+
+![alexpaul-dev](https://user-images.githubusercontent.com/1819208/200086891-7fd19c0d-e8eb-4c4c-9c51-794979fb6946.png)
+
+***
+
+## Resources 
+
+* [Apple docs: Safari Web Inspector Guide](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
