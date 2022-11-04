@@ -4,6 +4,8 @@ Using Safari Web Inspector to debug HTML, Javascript and CSS in a [WKWebView](ht
 
 ## 1. Enable Develop in Safari Menu
 
+> Navigate to Safari Preferences >> Advanced, then ensure the checkbox next to "Show Develop menu in menu bar" in on.
+
 ![enable-develop-menu](https://user-images.githubusercontent.com/1819208/200086796-365912df-8062-4444-84d9-2f2e6feda71f.png)
 
 ***
