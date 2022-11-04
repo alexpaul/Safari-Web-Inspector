@@ -1,6 +1,6 @@
 # Safari Web Inspector
 
-Using Safari Web Inspector to inspect elements in the [DOM - Docuemnt Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) (HTML, Javascript, CSS, ....) in an application that renders a [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview) or Mobile Safari.
+Using Safari Web Inspector to inspect elements in the [DOM - Docuemnt Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) (HTML, Javascript, CSS, ....) in Mobile Safari or an application that renders a [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview) page.
 
 ## 1. Enable Develop in Safari Menu
 
