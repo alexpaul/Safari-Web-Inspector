@@ -16,6 +16,9 @@
 
 ## 3. Using Web Inspector to Inspect Web elements in the iOS Simulator 
 
+![inspecting-alexpaul-dev](https://user-images.githubusercontent.com/1819208/200087710-38822f9c-ae37-418c-a51e-767fda1e4275.png)
+
+
 ![alexpaul-dev](https://user-images.githubusercontent.com/1819208/200086891-7fd19c0d-e8eb-4c4c-9c51-794979fb6946.png)
 
 ***
