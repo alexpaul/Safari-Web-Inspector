@@ -30,3 +30,4 @@ Using Safari Web Inspector to inspect elements in the [DOM - Docuemnt Object Mod
 ## Resources 
 
 * [Apple docs: Safari Web Inspector Guide](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)
+* [Apple docs: The Develop Menu](https://developer.apple.com/library/archive/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/TheDevelopMenu/TheDevelopMenu.html)
