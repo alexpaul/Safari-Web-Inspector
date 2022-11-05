@@ -4,7 +4,7 @@ Using Safari Web Inspector to inspect elements in the [DOM - Docuemnt Object Mod
 
 ## 1. Enable Develop in Safari Menu
 
-> Navigate to Safari Preferences >> Advanced, then ensure the checkbox next to "Show Develop menu in menu bar" in on.
+> Navigate to Safari Preferences >> Advanced, then ensure the checkbox next to "Show Develop menu in menu bar" is on.
 
 ![enable-develop-menu](https://user-images.githubusercontent.com/1819208/200086796-365912df-8062-4444-84d9-2f2e6feda71f.png)
 
